@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Flavio Loss Portfolio
 
-You can use the [editor on GitHub](https://github.com/flavioloss/Flavio_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project 1
+## Data Mining Water Pump Data: Project Overview
+### [GitHub Project Page](https://github.com/flavioloss/waterpump_challenge/blob/main/)
+### This project is from the Machine Learning challenge hosted in Driven Data [Pump it Up: Data Mining the Water Table](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) where i placed in rank 903 out of 13.000 competitors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### What was developed:
+- Estimator to predict if the water pump is functional, needs repair or non-function: configures a multi label classification model with accuracy score of 82.15%
+- Exploratory Data Analisys: The data contains a lot of features, so it was essential to visualize every distribution, relation and correlation between variables
+- Feature Engineering and Importance: using random forest, we can see each feature importance to the estimator. Also, feature engineering was extremely import to process non-numerical features, along with the creation of new features using the spatial ones that the data contains (latitude, longitude)
+- Several models where used, including Random Forests, Neural Network, and CatBoost, with the last being the best fit and accuracy score
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flavioloss/Flavio_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### After the modeling i have build a deploy for identifying in which category the water pump fits. The deploy is a map visualization of Tanzania, using the Plotly Python library. 
+#### For building and maintaining the app online, i used Streamlit and Streamlit Cloud.
+#### [Deploy Project Page](https://github.com/flavioloss/waterpump_deploy)
