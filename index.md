@@ -13,4 +13,5 @@
 
 #### After the modeling i have build a deploy for identifying in which category the water pump fits. The deploy is a map visualization of Tanzania, using the Plotly Python library. 
 #### For building and maintaining the app online, i used Streamlit and Streamlit Cloud.
-#### [Deploy Project Page](https://github.com/flavioloss/waterpump_deploy)
+##### [Deploy Project Page](https://github.com/flavioloss/waterpump_deploy)
+![](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/map_waterpump.jpeg)
