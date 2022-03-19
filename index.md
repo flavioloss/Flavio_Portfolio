@@ -1,4 +1,7 @@
-# Flavio Loss Portfolio
+#### Contato
+##### E-mail: flavioploss@gmail.com
+##### Phone: +55 (27) 99299-1265
+##### LinkedIn: [https://www.linkedin.com/in/flavio-loss/](https://www.linkedin.com/in/flavio-loss-b398a5181/)
 
 # Project 1
 ## Data Mining Water Pump Data: Project Overview
