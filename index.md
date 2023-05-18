@@ -23,8 +23,10 @@ I ranked 903 out of 13,000 competitors.
 
 
 ## Machine learning approaches to skin cancer diagnosis using NIR spectroscopy data of skin lesions
-### This project is a scientific research developed by a partnership of UFES (Federal University of Espirito Santo) and PAD (UFES's Dermatological Assistance Program) to collect and classify skin cancer lesion spectra between cancer and non-cancer
 ### [GitHub Project Page](https://github.com/flavioloss/nir-spectrum-classification)
+### This project is a scientific research developed by a partnership of UFES (Federal University of Espirito Santo) and PAD (UFES's Dermatological Assistance Program) to collect and classify skin cancer lesion spectra between cancer and non-cancer
+Currently, the project is being revised to be published as a Scientific paper.
+
 
 ### What was developed:
 - Data Collection: since 2020, a skin lesion databate has been assembled and annotated as a gold-standard dataset for cutaneous cancer classification, using a MicroNIR spectrometer on communities from the state of Espirito Santo, Brazil.
