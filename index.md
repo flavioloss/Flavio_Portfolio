@@ -18,7 +18,7 @@ I ranked 903 out of 13,000 competitors.
 #### After modeling, I built a deployable application to identify the category of water pumps on a map visualization of Tanzania. I used the Plotly Python library for this purpose.
 #### To build and maintain the application online, I utilized Streamlit and Streamlit Cloud.
 ##### [Deploy Project Page](https://github.com/flavioloss/waterpump_deploy)
-![Image](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/map_waterpump.jpeg?raw=true)
+![img-1](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/map_waterpump.jpeg?raw=true)
 
 
 
@@ -34,4 +34,4 @@ I ranked 903 out of 13,000 competitors.
 - Modelling: We conducted cross-validation experiments using various algorithms, including PLS-DA, SVM, XGBoost, Catboost, LightGBM, and 1D Convolutional Neural Networks. The LightGBM model achieved the best performance with a balanced accuracy of 85%.
 
 #### Currently, the project is being revised to be published as a Scientific paper.
-![](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/spectrum_binary.jpg?raw=true)
+![img-2](https://github.com/flavioloss/Flavio_Portfolio/blob/gh-pages/images/spectrum_binary.jpg?raw=true)
